@@ -3,12 +3,13 @@
 Border="0">
 Virtual library written in Java. They were created 3 rooms, each one of them has a certain number of shelfs and each shelf has 20 position where you can add a book. 
 There are three buttons: <br>
-* **Gestione** where you can choose a room, click with the right button on a position on a shelf and:
+* **Gestione**: you can choose a room, click with the right button a position on a shelf and:
   * Delete a book
   * Return a book
   * Lend a book
   * Add a book
   * Show details about that book.
-* **Salvataggio**
+* **Salvataggio**: you can save your progess.
+* **Ricerca**: you can search a book by title or by room.
 
 
