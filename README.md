@@ -1,7 +1,7 @@
 # Library
 <img src="https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/2995229_orig.jpg" align="right" Hspace="8" Vspace="0" width="480" height="325"
 Border="0">
-Project made for Java exam.
+Project made for Java exam. <br>
 Virtual library written in Java. They were created 3 rooms, each one of them has a certain number of shelfs and each shelf has 20 position where you can add a book. 
 There are three buttons: <br>
 * **Gestione**: you can choose a room, click with the right button a position on a shelf and:
