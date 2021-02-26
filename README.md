@@ -23,8 +23,12 @@ Il progetto ha previsto la creazione di 3 pacchetti:
     * *casa editrice*, in riferimento alla casa editrice produttrice del libro
     * *stato*, specifica s eun libro è disponibile al prestito o meno
     * *posizione*, in riferimento alla posizione all'interno dello scaffale
-  * [*Scaffale*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Scaffale.java)
-  * [*Stanza*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Stanza.java)
+  * [*Scaffale*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Scaffale.java) contenente i seguenti campi:
+    * *numeroIdentificativo*, identificativo dello scaffale presente nella stanza,
+    * *numeroPosizioni*, posizione contenute nello scaffale selezionato
+  * [*Stanza*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Stanza.java) contenente i seguenti campi:
+    * *numeroScaffali*, numero degli scaffali presenti all'interno della stanza
+    * *letteraIdentificativo*, scelta tra A,B,C in riferimento ai nomi di ogni stanza
 * [*BusinessLogic*](https://github.com/Peppen/Library/tree/master/ProgettoBiblioteca/src/businesslogic)
 * [*Graphics*](https://github.com/Peppen/Library/tree/master/ProgettoBiblioteca/src/graphics)
 
