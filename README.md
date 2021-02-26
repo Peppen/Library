@@ -17,7 +17,12 @@ Occorre installare i seguenti strumenti al fine di poter scaricare la cartella e
 ## Implementazione e Test
 Il progetto ha previsto la creazione di 3 pacchetti:
 * [*Beans*](https://github.com/Peppen/Library/tree/master/ProgettoBiblioteca/src/beans) che contiene i beans necessari per l'implementazione della logica del software:
-  * [*Libro*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Libro.java) che contiene i seguenti campi: *titolo*, *lista di autori*, *casa editrice*, *stato* e *posizione* in riferimento alla posizione all'interno dello scaffale
+  * [*Libro*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Libro.java) contenente i seguenti campi: 
+   * *titolo*, in riferimento al titolo del libro
+   * *lista di autori*, in riferimento agli autori del libro
+   * *casa editrice*, in riferimento alla casa editrice produttrice del libro
+   * *stato*, specifica s eun libro è disponibile al prestito o meno
+   * *posizione*, in riferimento alla posizione all'interno dello scaffale
   * [*Scaffale*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Scaffale.java)
   * [*Stanza*](https://github.com/Peppen/Library/blob/master/ProgettoBiblioteca/src/beans/Stanza.java)
 * [*BusinessLogic*](https://github.com/Peppen/Library/tree/master/ProgettoBiblioteca/src/businesslogic)
