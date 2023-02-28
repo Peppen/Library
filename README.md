@@ -11,7 +11,7 @@ This software creates 3 rooms named **A**, **B**, **C**, each of which has a cer
 * **Aggiunta**: if the position is not filled, it becomes filled by adding a new book.
 * **Dettagli**: show the details of the book in that position, if any.
 
-## Prerequisiti
+## Requirements
 You need to install the following tools in order to download the folder and try the software:
 * *Java 8 or later versions*
 * *Java Swing Library*
