@@ -17,6 +17,15 @@ You need to install the following tools in order to download the folder and try 
 * *Java Swing Library*
 * *Eclipse o IntelliJ*
 
+## Implementation
+This project contains 3 packages:
+* **Beans**: it contains all the beans required by the application to work.
+* **BusinessLogic**: it contains all the logic behind the application.
+* **Graphics**: it contains the graphic implemented with Swing.
+
+
+
+
 
 
 
